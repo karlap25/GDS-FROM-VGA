@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its a example to create a GDS from VGA
 
 ## How to test
 
-Explain how to use your project
+Its a example to create a GDS from VGA
 
 ## External hardware
 
